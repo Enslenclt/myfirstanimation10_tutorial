@@ -1,0 +1,27 @@
+{
+    "name": "MyFirstAnimation10_tutorial",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "microbit_tutorial": "github:enslenclt/microbit_tutorial#437e2257c16a10331c49c09b672fefafe4299fc0",
+        "MyFirstAnimation100_tutorial": "github:enslenclt/microbit_tutorial#437e2257c16a10331c49c09b672fefafe4299fc0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.15",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
